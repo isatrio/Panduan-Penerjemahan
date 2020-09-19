@@ -1,4 +1,4 @@
-# Berkontribusi di Penerjemahan LibreOffice
+# Berkontribusi di Proyek Penerjemahan
 
 ## Ingin bantu menambahkan kata pada glossarium?
 
